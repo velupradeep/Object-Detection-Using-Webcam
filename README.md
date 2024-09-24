@@ -114,7 +114,7 @@ cv2.destroyAllWindows()
 ![ws-2](https://github.com/user-attachments/assets/d9c39e4b-a8bf-47c1-bd4d-a712198c5ad0)
 
 ## RESULT:
-Thus, The Python Program to detect object using web camera as been successfully executed.
+Thus, the Python Program to detect object using web camera as been successfully executed.
 
 
 
