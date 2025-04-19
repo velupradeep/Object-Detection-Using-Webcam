@@ -27,8 +27,8 @@ STEP-9 Exit the loop if the 'q' key is pressed.
 STEP-10 Release the video capture and close any OpenCV windows (cap.release() and cv2.destroyAllWindows()).
 
 ## PROGRAM:
-#### NAME : ASHWIN KUAMR S
-#### REG.NO : 212222240013
+#### NAME : PRADEEP V
+#### REG.NO : 212223240119
 
 ```
 import cv2
@@ -109,9 +109,8 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## OUTPUT:
-![ws-2(1)](https://github.com/user-attachments/assets/7e5321b3-fd92-440d-a7dd-f7a36ea6e47b)
+![image](https://github.com/user-attachments/assets/6e7073e5-d648-4644-a37f-7f391e254a2f)
 
-![ws-2](https://github.com/user-attachments/assets/d9c39e4b-a8bf-47c1-bd4d-a712198c5ad0)
 
 ## RESULT:
 Thus, the Python Program to detect object using web camera as been successfully executed.
